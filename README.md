@@ -7,12 +7,10 @@
 <h2>A passionate web developer from Bangladesh</h2>
 
 <div>
-    
- 🔭 I’m currently working on **DREAMS_FOOD Project**
  
  🌱 I’m currently learning **DSA**
 
-💬 Ask me about **ReactJS, NextJS, Javascript**
+💬 Ask me about **ReactJS**
 
  </div>
 
